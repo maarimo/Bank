@@ -1,6 +1,7 @@
 💸 Tratamento de Exceções com Conta Bancária
-Este é um projeto simples em Java que simula operações básicas de uma conta bancária com foco no tratamento de exceções personalizadas.
 ---
+Este é um projeto simples em Java que simula operações básicas de uma conta bancária com foco no tratamento de exceções personalizadas.
+
 📋 Descrição
 O sistema permite:
 
@@ -13,8 +14,9 @@ Lidar com erros utilizando exceções personalizadas (BusinessException) para va
 Valor de saque exceder o saldo;
 
 Valor de saque exceder o limite definido.
----
+
 ⚠️ Regras de Negócio
+---
 O saque não pode exceder o saldo disponível.
 
 O saque não pode ultrapassar o limite de saque definido.
