@@ -3,6 +3,7 @@
 Este é um projeto simples em Java que simula operações básicas de uma conta bancária com foco no tratamento de exceções personalizadas.
 
 📋 Descrição
+---
 O sistema permite:
 
 Criar uma conta informando número, titular, saldo inicial e limite de saque;
